@@ -14,7 +14,8 @@ I'm a passionate software engineer and machine learning enthusiast.
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/melih-k%C3%BC%C3%A7%C3%BCk-1b493b298/)
 - [Kaggle](https://www.kaggle.com/melihkucuk)
-
+- [Instagram](https://www.instagram.com/melihkucuk61)
+- 
 ## Featured Projects
 - **...**  
 
