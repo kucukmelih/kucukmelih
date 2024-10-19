@@ -39,13 +39,13 @@ I'm a passionate software engineer and machine learning enthusiast.
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kucukmelih&layout=compact&theme=radical)
 
 ## GitHub Stats
-![Anchovy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Anchovy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kucukmelih&show_icons=true&theme=radical)
 
 ## Weekly Development Breakdown
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kucukmelih&theme=radical)
 
 
 
