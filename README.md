@@ -44,7 +44,7 @@ I'm a passionate software engineer and machine learning enthusiast.
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kucukmelih&layout=compact&theme=radical)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kucukmelih&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kucukmelih&theme=react-dark)
 
 ## GitHub Stats
 ![Anchovy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kucukmelih&show_icons=true&theme=radical)
