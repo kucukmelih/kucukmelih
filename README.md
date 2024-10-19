@@ -39,14 +39,15 @@
 - **[Terminal ToDo](https://github.com/kucukmelih/Python_Projects/tree/main/CS50P_Final_Project)**: For CS50's Python Final Project.
 - **[Tetris](https://github.com/kucukmelih/Java_Projects)**: Using Java.
 
-## My Notes
+## My Notes (I will be uploading it soon.)
+- **[Data Structures and Algorithms](#)**  
 - **[Data Manipulation](#)**  
   - NumPy
   - Pandas
 - **[Data Visualization](#)**  
   - Matplotlib  
-  - Seaborn  
-- **[Data Structures and Algorithms](#)**  
+  - Seaborn
+- **[Machine Learning]()**
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kucukmelih&layout=compact&theme=radical)
