@@ -59,10 +59,6 @@ I'm a passionate software engineer and machine learning enthusiast.
 ## Weekly Development Breakdown
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kucukmelih&theme=radical)
 
-![Language Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=kucukmelih&layout=compact&theme=radical)
-
-
-
 <!---
 kucukmelih/kucukmelih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
