@@ -20,7 +20,7 @@ I'm a passionate software engineer and machine learning enthusiast.
 ## Featured Projects
 - **[Vehicle Price Prediction](https://github.com/kullanıcı_adı/vehicle-price-prediction)**: Developed an ANN model to predict vehicle prices based on various features. (Currently Working On)
 - **[Text Browser](https://github.com/kucukmelih/Python_Projects/tree/main/Text_Browser)**: Like 'more' command and using Python.
-- **[Terminal ToDo](https://github.com/kucukmelih/Python_Projects/tree/main/CS50P_Final_Project)**: Using Python.
+- **[Terminal ToDo](https://github.com/kucukmelih/Python_Projects/tree/main/CS50P_Final_Project)**: For CS50's Python Final Project.
 - **[Tetris](https://github.com/kucukmelih/Java_Projects)**: Using Java.
 
 ## Technologies & Tools
