@@ -2,10 +2,10 @@
 I'm a passionate software engineer and machine learning enthusiast.
 
 ## About Me
-- 🔭 I'm currently working on: Data structures, algorithms, and machine learning projects
-- 🌱 I’m currently learning: Advanced Python, Machine Learning, and Neural Networks
+- 👨‍💻 I'm currently working on: Data structures, algorithms, and machine learning projects
+- 📚 I’m currently learning: Advanced Python, Machine Learning, and Neural Networks
 - 🎓 Studying Software Engineering in Turkey
-- 📫 How to reach me: [kucuk.melih@outlook.com](mailto:kucuk.melih@outlook.com)
+- 📩 How to reach me: [kucuk.melih@outlook.com](mailto:kucuk.melih@outlook.com)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kucukmelih.kucukmelih)
 
