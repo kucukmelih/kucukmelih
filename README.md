@@ -11,11 +11,11 @@ I'm a passionate software engineer and machine learning enthusiast.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kucukmelih.kucukmelih)
 
-## Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/melih-k%C3%BC%C3%A7%C3%BCk-1b493b298/)
-- [Kaggle](https://www.kaggle.com/kucukmelih)
-- [Instagram](https://www.instagram.com/melihkucuk61)
-- [Medium](https://medium.com/@kucuk.melih)
+- ## Let's Connect!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melih-k%C3%BC%C3%A7%C3%BCk-1b493b298/)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kucukmelih)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/melihkucuk61)
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kucuk.melih)
   
 ## Featured Projects
 - **...**  
