@@ -19,8 +19,9 @@ I'm a passionate software engineer and machine learning enthusiast.
   
 ## Featured Projects
 - **Vehicle Price Prediction**: Developed an ANN model to predict vehicle prices based on various features.
-- **Terminal ToDo**
-- **Tetris**
+- **Text_Browser**: Using Python, like 'more' command.
+- **Terminal ToDo**: Using Python
+- **Tetris**: Using Java
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
