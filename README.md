@@ -3,7 +3,7 @@
 
 ## About Me
 - 👨‍💻 I'm currently working on: Data structures, algorithms, and machine learning projects
-- 📚 I’m currently learning: Advanced Python, Machine Learning, and Neural Networks
+- 📚 I’m currently learning: Advanced Python, Machine Learning, and Deep Learning
 - 🎓 Studying Software Engineering in Istanbul, Turkey
 - 📩 How to reach me: [kucuk.melih@outlook.com](mailto:kucuk.melih@outlook.com)
 
