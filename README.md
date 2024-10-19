@@ -33,6 +33,7 @@ I'm a passionate software engineer and machine learning enthusiast.
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-333333?style=flat&logo=microsoft-sql-server)
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
