@@ -18,7 +18,7 @@ I'm a passionate software engineer and machine learning enthusiast.
  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kucuk.melih)
   
 ## Featured Projects
-- **Vehicle Price Prediction**: Developed an ANN model to predict vehicle prices based on various features like brand, model, transmission type, fuel type, and mileage.
+- **Vehicle Price Prediction**: Developed an ANN model to predict vehicle prices based on various features.
 - **Terminal ToDo**
 - **Tetris**
 
