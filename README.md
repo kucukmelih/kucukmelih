@@ -42,21 +42,13 @@ I'm a passionate software engineer and machine learning enthusiast.
 - **[Tetris](https://github.com/kucukmelih/Java_Projects)**: Using Java.
 
 ## My Notes
-
 - **[Data Manipulation](#)**  
-  - Data cleaning  
-  - Missing data analysis  
-  - Reshaping data  
-
+  - NumPy
+  - Pandas
 - **[Data Visualization](#)**  
-  - Data visualization with Matplotlib  
-  - Using Seaborn  
-  - Interactive plots with Plotly  
-
+  - Matplotlib  
+  - Seaborn  
 - **[Data Structures and Algorithms](#)**  
-  - Algorithm analysis (Big-O Notation)  
-  - Data structures (Array, Linked List, Stack, Queue)  
-  - Sorting algorithms (Quick Sort, Merge Sort)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kucukmelih&layout=compact&theme=radical)
