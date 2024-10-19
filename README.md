@@ -19,7 +19,7 @@ I'm a passionate software engineer and machine learning enthusiast.
   
 ## Featured Projects
 - **Vehicle Price Prediction**: Developed an ANN model to predict vehicle prices based on various features.
-- **Text_Browser**: Using Python, like 'more' command.
+- **Text_Browser**: Like 'more' command and using Python.
 - **Terminal ToDo**: Using Python
 - **Tetris**: Using Java
 
