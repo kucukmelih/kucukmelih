@@ -1,5 +1,6 @@
 # Hello, I'm Melih! 👋
 I'm a passionate software engineer and machine learning enthusiast.
+
 "In the process of mastering machine learning while building Python projects!"
 
 ## About Me
