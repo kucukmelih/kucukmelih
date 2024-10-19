@@ -16,12 +16,12 @@ I'm a passionate software engineer and machine learning enthusiast.
  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kucukmelih)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/melihkucuk61)
  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kucuk.melih)
-  
+
 ## Featured Projects
-- **Vehicle Price Prediction**: Developed an ANN model to predict vehicle prices based on various features. (Currently Working On)
-- **Text_Browser**: Like 'more' command and using Python.
-- **Terminal ToDo**: Using Python
-- **Tetris**: Using Java
+- **[Vehicle Price Prediction](https://github.com/kullanıcı_adı/vehicle-price-prediction)**: Developed an ANN model to predict vehicle prices based on various features. (Currently Working On)
+- **[Text Browser](https://github.com/kucukmelih/Python_Projects/tree/main/Text_Browser)**: Like 'more' command and using Python.
+- **[Terminal ToDo](https://github.com/kucukmelih/Python_Projects/tree/main/CS50P_Final_Project)**: Using Python.
+- **[Tetris](https://github.com/kucukmelih/Java_Projects)**: Using Java.
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -51,8 +51,6 @@ I'm a passionate software engineer and machine learning enthusiast.
 
 ## Weekly Development Breakdown
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kucukmelih&theme=radical)
-
-
 
 
 <!---
