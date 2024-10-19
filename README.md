@@ -9,8 +9,6 @@ I'm a passionate software engineer and machine learning enthusiast.
 - 🎓 Studying Software Engineering in Istanbul, Turkey
 - 📩 How to reach me: [kucuk.melih@outlook.com](mailto:kucuk.melih@outlook.com)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kucukmelih.kucukmelih)
-
 - ## Let's Connect!
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melih-k%C3%BC%C3%A7%C3%BCk-1b493b298/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/melihkucuk61)
@@ -34,6 +32,8 @@ I'm a passionate software engineer and machine learning enthusiast.
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kucukmelih.kucukmelih)
 
 ## Featured Projects
 - **[Vehicle Price Prediction](https://github.com/kullanıcı_adı/vehicle-price-prediction)**: Developed an ANN model to predict vehicle prices based on various features. (Currently Working On)
