@@ -24,8 +24,10 @@ I'm a passionate software engineer and machine learning enthusiast.
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-333333?style=flat&logo=microsoft-sql-server)
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## GitHub Stats
 ![Anchovy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
