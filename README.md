@@ -24,20 +24,22 @@ I'm a passionate software engineer and machine learning enthusiast.
 - **[Tetris](https://github.com/kucukmelih/Java_Projects)**: Using Java.
 
 ## My Notes
+
 - **[Data Manipulation](#)**  
-  - Veri temizleme  
-  - Eksik veri analizi  
-  - Verilerin yeniden şekillendirilmesi  
+  - Data cleaning  
+  - Missing data analysis  
+  - Reshaping data  
 
 - **[Data Visualization](#)**  
-  - Matplotlib ile veri görselleştirme  
-  - Seaborn kullanımı  
-  - Plotly ile etkileşimli grafikler  
+  - Data visualization with Matplotlib  
+  - Using Seaborn  
+  - Interactive plots with Plotly  
 
 - **[Data Structures and Algorithms](#)**  
-  - Algoritma analizi (Big-O Notation)  
-  - Veri yapıları (Array, Linked List, Stack, Queue)  
-  - Sıralama algoritmaları (Quick Sort, Merge Sort)
+  - Algorithm analysis (Big-O Notation)  
+  - Data structures (Array, Linked List, Stack, Queue)  
+  - Sorting algorithms (Quick Sort, Merge Sort)
+
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
