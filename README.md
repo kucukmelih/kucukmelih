@@ -17,6 +17,24 @@ I'm a passionate software engineer and machine learning enthusiast.
  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kucukmelih)
  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kucuk.melih)
 
+## Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-333333?style=flat&logo=microsoft-sql-server)
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
 ## Featured Projects
 - **[Vehicle Price Prediction](https://github.com/kullanıcı_adı/vehicle-price-prediction)**: Developed an ANN model to predict vehicle prices based on various features. (Currently Working On)
 - **[Text Browser](https://github.com/kucukmelih/Python_Projects/tree/main/Text_Browser)**: Like 'more' command and using Python.
@@ -39,25 +57,6 @@ I'm a passionate software engineer and machine learning enthusiast.
   - Algorithm analysis (Big-O Notation)  
   - Data structures (Array, Linked List, Stack, Queue)  
   - Sorting algorithms (Quick Sort, Merge Sort)
-
-
-## Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MS SQL](https://img.shields.io/badge/-MS%20SQL-333333?style=flat&logo=microsoft-sql-server)
-![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kucukmelih&layout=compact&theme=radical)
