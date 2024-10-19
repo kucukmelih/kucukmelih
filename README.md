@@ -23,6 +23,22 @@ I'm a passionate software engineer and machine learning enthusiast.
 - **[Terminal ToDo](https://github.com/kucukmelih/Python_Projects/tree/main/CS50P_Final_Project)**: For CS50's Python Final Project.
 - **[Tetris](https://github.com/kucukmelih/Java_Projects)**: Using Java.
 
+## My Notes
+- **[Data Manipulation](#)**  
+  - Veri temizleme  
+  - Eksik veri analizi  
+  - Verilerin yeniden şekillendirilmesi  
+
+- **[Data Visualization](#)**  
+  - Matplotlib ile veri görselleştirme  
+  - Seaborn kullanımı  
+  - Plotly ile etkileşimli grafikler  
+
+- **[Data Structures and Algorithms](#)**  
+  - Algoritma analizi (Big-O Notation)  
+  - Veri yapıları (Array, Linked List, Stack, Queue)  
+  - Sıralama algoritmaları (Quick Sort, Merge Sort)
+
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
@@ -43,8 +59,6 @@ I'm a passionate software engineer and machine learning enthusiast.
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kucukmelih&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kucukmelih&theme=react-dark)
 
 ## GitHub Stats
 ![Anchovy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kucukmelih&show_icons=true&theme=radical)
