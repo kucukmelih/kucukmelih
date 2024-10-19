@@ -18,7 +18,9 @@ I'm a passionate software engineer and machine learning enthusiast.
  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kucuk.melih)
   
 ## Featured Projects
-- **...**  
+- **Vehicle Price Prediction**: Developed an ANN model to predict vehicle prices based on various features like brand, model, transmission type, fuel type, and mileage.
+- **Terminal ToDo**
+- **Tetris**
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -40,6 +42,8 @@ I'm a passionate software engineer and machine learning enthusiast.
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kucukmelih&layout=compact&theme=radical)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kucukmelih&theme=react-dark)
 
 ## GitHub Stats
 ![Anchovy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kucukmelih&show_icons=true&theme=radical)
