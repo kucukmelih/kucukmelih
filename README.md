@@ -50,7 +50,8 @@
   - Seaborn
 - **[Machine Learning]()**
 
-
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kucukmelih&layout=compact&theme=radical)
 
 ## GitHub Stats
 ![Anchovy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kucukmelih&show_icons=true&theme=radical)
