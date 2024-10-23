@@ -1,5 +1,5 @@
 # Hello, I'm Melih! 👋
-"I'm a passionate software engineering and machine learning enthusiast."
+"I'm a software engineering student and a machine learning enthusiast."
 
 ## About Me
 - 👨‍💻 I'm currently working on: Data structures, algorithms, and machine learning projects
