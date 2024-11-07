@@ -34,7 +34,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kucukmelih.kucukmelih)
 
 ## Featured Projects
-- **[Vehicle Price Prediction](https://github.com/kullanıcı_adı/vehicle-price-prediction)**: Developed an ANN model to predict vehicle prices based on various features. (Currently Working On)
+- **[Vehicle Price Prediction](https://github.com/kucukmelih/VehiclePricePrediction)**: Developed an ANN model to predict vehicle prices based on various features. (Currently Working On)
 - **[Home Renovation Planner Mobile App](https://github.com/kucukmelih/HomeRenovationPlannerApp)**: Using Kotlin.
 - **[Text Browser](https://github.com/kucukmelih/Python_Projects/tree/main/Text_Browser)**: Like 'more' command and using Python.
 - **[Terminal ToDo](https://github.com/kucukmelih/Python_Projects/tree/main/CS50P_Final_Project)**: For CS50's Python Final Project.
