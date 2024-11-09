@@ -36,7 +36,7 @@
 ## Featured Projects
 - **[Vehicle Price Prediction](https://github.com/kucukmelih/VehiclePricePrediction)**: Developed an ANN model to predict vehicle prices based on various features. (Currently Working On)
 - **[Home Renovation Planner Mobile App](https://github.com/kucukmelih/HomeRenovationPlannerApp)**: Using Kotlin and Jetpack Compose.
-- **[Text Browser](https://github.com/kucukmelih/Python_Projects/tree/main/Text_Browser)**: Like 'more' command and using Python.
+- **[Text Browser](https://github.com/kucukmelih/Python_Projects/tree/main/Text_Browser)**: A Python project inspired by the 'more' command, allowing text file navigation in the terminal, and additionally, a GUI version using Tkinter for a more user-friendly experience.
 - **[Terminal ToDo](https://github.com/kucukmelih/Python_Projects/tree/main/CS50P_Final_Project)**: For CS50's Python Final Project.
 - **[Personal Website](https://github.com/kucukmelih/PersonalWebsite)**: My personal website showcasing my projects, skills, and contact information. (Currently Working On)
 - **[Tetris](https://github.com/kucukmelih/Java_Projects)**: Using Java, different types of Tetris Game.
