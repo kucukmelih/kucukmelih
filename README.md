@@ -45,7 +45,7 @@
 - **[Tetris](https://github.com/kucukmelih/Java_Projects)**: Using Java, different types of Tetris Game.
 
 ## My Notes (I will be uploading it soon.)
-- **[Data Structures and Algorithms](#)**  
+- **[Data Structures and Algorithms](https://github.com/kucukmelih/DataStructuresAndAlgorithms)**: Notes and problem solutions on data structures and algorithms.
 - **[Data Manipulation](#)**  
   - NumPy
   - Pandas
