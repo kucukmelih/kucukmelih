@@ -16,6 +16,7 @@
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
@@ -28,6 +29,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-333333?style=flat&logo=microsoft-sql-server)
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
