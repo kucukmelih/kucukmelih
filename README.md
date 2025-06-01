@@ -46,7 +46,6 @@
 - **[Personal Website](https://github.com/kucukmelih/PersonalWebsite)**: My personal website showcasing my projects, skills, and contact information. (Currently Working On)
 - **[Tetris](https://github.com/kucukmelih/Java_Projects)**: Using Java, different types of Tetris Game.
 - **[Movie Review and Recommendation System](https://github.com/kucukmelih/MovieReviewAndRecommendationProject)**: A collaborative filtering-based recommendation system with user reviews and a GUI built using Python and Tkinter.
-- **[AI-Powered Joke Generator Website](https://github.com/Maltepe-University-SWEng/term-project-team-8)**: A fine-tuned AI model trained on Turkish jokes that generates humorous content. Includes a web-based interface for users to interact with the model. 
 - **[AI-Powered Joke Generator Website](https://github.com/Maltepe-University-SWEng/term-project-team-8)**: A group project featuring a fine-tuned AI model trained on Turkish jokes to generate humorous content. I served as the **Scrum Master**, managed **data preprocessing**, developed the **AI model**, implemented the **backend**, contributed to the **frontend interface**, and was responsible for the **final report and presentation**. The project includes a web-based UI that interacts with the model and displays AI-generated jokes in real time.
 
 ## My Notes (I will be uploading it soon.)
