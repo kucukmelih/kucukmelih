@@ -45,6 +45,9 @@
 - **[Terminal ToDo](https://github.com/kucukmelih/Python_Projects/tree/main/CS50P_Final_Project)**: For CS50's Python Final Project.
 - **[Personal Website](https://github.com/kucukmelih/PersonalWebsite)**: My personal website showcasing my projects, skills, and contact information. (Currently Working On)
 - **[Tetris](https://github.com/kucukmelih/Java_Projects)**: Using Java, different types of Tetris Game.
+- **[Movie Review and Recommendation System](https://github.com/kucukmelih/MovieReviewProject)**: A collaborative filtering-based recommendation system with user reviews and a GUI built using Python and Tkinter.
+- **[AI-Powered Joke Generator Website](#)**: A fine-tuned AI model trained on Turkish jokes that generates humorous content. Includes a web-based interface for users to interact with the model. *(GitHub link coming soon)*
+- **[LGS Tracker App](#)**: A desktop application built with C# Windows Forms to help students and admins track mock exam results, visualize performance with graphs, and export detailed reports in PDF format. *(GitHub link coming soon)*
 
 ## My Notes (I will be uploading it soon.)
 - **[Data Structures and Algorithms](https://github.com/kucukmelih/DataStructuresAndAlgorithms)**: Notes and problem solutions on data structures and algorithms.
