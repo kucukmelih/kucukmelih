@@ -40,13 +40,13 @@
 ## Featured Projects
 - **[Vehicle Price Prediction](https://github.com/kucukmelih/VehiclePricePrediction)**: Developed an ANN model to predict vehicle prices based on various features. 
 - **[Home Renovation Planner Mobile App](https://github.com/kucukmelih/HomeRenovationPlannerApp)**: Using Kotlin and Jetpack Compose.
-- **[Text Browser](https://github.com/kucukmelih/Python_Projects/tree/main/Text_Browser)**: A Python project inspired by the 'more' command, allowing text file navigation in the terminal, and additionally, a GUI version using Tkinter for a more user-friendly experience.
 - **[Graduate Thesis System](https://github.com/kucukmelih/GraduateThesisSystem)**: HTML, CSS, JavaScript, and Node.js project developed for a Database Management course to manage graduate thesis workflows.
-- **[Terminal ToDo](https://github.com/kucukmelih/Python_Projects/tree/main/CS50P_Final_Project)**: For CS50's Python Final Project.
-- **[Personal Website](https://github.com/kucukmelih/PersonalWebsite)**: My personal website showcasing my projects, skills, and contact information. (Currently Working On)
-- **[Tetris](https://github.com/kucukmelih/Java_Projects)**: Using Java, different types of Tetris Game.
 - **[Movie Review and Recommendation System](https://github.com/kucukmelih/MovieReviewAndRecommendationProject)**: A collaborative filtering-based recommendation system with user reviews and a GUI built using Python and Tkinter.
 - **[AI-Powered Joke Generator Website](https://github.com/Maltepe-University-SWEng/term-project-team-8)**: A group project featuring a fine-tuned AI model trained on Turkish jokes to generate humorous content. I served as the **Scrum Master**, managed **data preprocessing**, developed the **AI model**, implemented the **backend**, contributed to the **frontend interface**, and was responsible for the **final report and presentation**. The project includes a web-based UI that interacts with the model and displays AI-generated jokes in real time.
+- **[Tetris](https://github.com/kucukmelih/Java_Projects)**: Using Java, different types of Tetris Game.
+- **[Personal Website](https://github.com/kucukmelih/PersonalWebsite)**: My personal website showcasing my projects, skills, and contact information. (Currently Working On)
+- **[Text Browser](https://github.com/kucukmelih/Python_Projects/tree/main/Text_Browser)**: A Python project inspired by the 'more' command, allowing text file navigation in the terminal, and additionally, a GUI version using Tkinter for a more user-friendly experience.
+- **[Terminal ToDo](https://github.com/kucukmelih/Python_Projects/tree/main/CS50P_Final_Project)**: For CS50's Python Final Project.
 
 ## My Notes (I will be uploading it soon.)
 - **[Data Structures and Algorithms](https://github.com/kucukmelih/DataStructuresAndAlgorithms)**: Notes and problem solutions on data structures and algorithms.
